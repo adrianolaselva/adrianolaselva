@@ -1,5 +1,5 @@
 ## Hi, I’m Adriano 👋
-**Software Engineer @ OneOverX** — building **Health & Wellness** products with a pragmatic mix of **software engineering, data engineering, and responsible AI**.
+**Software Engineer @oneoverx-tech** — building **Health & Wellness** products with a pragmatic mix of **software engineering, data engineering, and responsible AI**.
 
 - Since 2009: full-stack → backend focus
 - Comfortable across product + engineering constraints
