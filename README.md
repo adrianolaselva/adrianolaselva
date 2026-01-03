@@ -1,5 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrianolaselva&show_icons=true&theme=radical)
-
 ### ⚡ Technologies
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
