@@ -1,3 +1,13 @@
+### 👋 About me
+
+I’ve been building software since 2009. I started as a full-stack developer and gradually specialized in **backend engineering**, always driven by curiosity and a preference for simple, efficient, and maintainable solutions.
+
+Over the years, I’ve worked across a broad range of technologies — from **Java/Go/Python/Kotlin/C#** to modern web and mobile with **React** and **Flutter** — and I’m comfortable moving between product needs and technical constraints. I’ve contributed to mission-critical systems involving **integrations, automation, and reliability**, often in environments where performance and observability matter.
+
+I’m particularly interested in the intersection of **software engineering, data engineering, and applied AI**, turning real-world problems into practical solutions. I also make occasional **open-source contributions** (including **LangChain4j**) as a way to learn, share, and give back to the community.
+
+Currently, I’m a **Software Engineer at OneOverX**, building products focused on **Health & Wellness** to create real, positive impact in people’s lives.
+
 ### ⚡ Technologies
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
