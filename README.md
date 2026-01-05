@@ -3,6 +3,7 @@
 
 - Since 2009: full-stack → backend focus
 - Comfortable across product + engineering constraints
+- Occasional OSS contributions (incl. **LangChain4j**)
 
 🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/adrianolaselva) • [GitHub](https://github.com/adrianolaselva) • [Medium](https://medium.com/@adrianolaselva)
 
